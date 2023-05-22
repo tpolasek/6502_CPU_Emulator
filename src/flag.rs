@@ -1,3 +1,4 @@
+// Copyright Thomas Polasek
 pub struct Flag {
     pub flag_n: u8,
     pub flag_v: u8,

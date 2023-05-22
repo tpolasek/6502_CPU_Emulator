@@ -1,3 +1,4 @@
+// Copyright Thomas Polasek
 #![allow(non_snake_case)]
 extern crate hex;
 mod flag;
